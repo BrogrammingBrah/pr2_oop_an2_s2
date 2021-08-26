@@ -1,0 +1,51 @@
+C:\Users\Catalina\Desktop\Facultate\Semestrul IV\Programare_orientata_obiect\Proiect_final\Proiect_2\Proiect_2\Proiect_2\bin\Debug\Proiect_2.exe.config
+C:\Users\Catalina\Desktop\Facultate\Semestrul IV\Programare_orientata_obiect\Proiect_final\Proiect_2\Proiect_2\Proiect_2\bin\Debug\Proiect_2.exe
+C:\Users\Catalina\Desktop\Facultate\Semestrul IV\Programare_orientata_obiect\Proiect_final\Proiect_2\Proiect_2\Proiect_2\bin\Debug\Proiect_2.pdb
+C:\Users\Catalina\Desktop\Facultate\Semestrul IV\Programare_orientata_obiect\Proiect_final\Proiect_2\Proiect_2\Proiect_2\obj\Debug\Proiect_2.csprojAssemblyReference.cache
+C:\Users\Catalina\Desktop\Facultate\Semestrul IV\Programare_orientata_obiect\Proiect_final\Proiect_2\Proiect_2\Proiect_2\obj\Debug\Proiect_2.Form1.resources
+C:\Users\Catalina\Desktop\Facultate\Semestrul IV\Programare_orientata_obiect\Proiect_final\Proiect_2\Proiect_2\Proiect_2\obj\Debug\Proiect_2.Properties.Resources.resources
+C:\Users\Catalina\Desktop\Facultate\Semestrul IV\Programare_orientata_obiect\Proiect_final\Proiect_2\Proiect_2\Proiect_2\obj\Debug\Proiect_2.csproj.GenerateResource.cache
+C:\Users\Catalina\Desktop\Facultate\Semestrul IV\Programare_orientata_obiect\Proiect_final\Proiect_2\Proiect_2\Proiect_2\obj\Debug\Proiect_2.csproj.CoreCompileInputs.cache
+C:\Users\Catalina\Desktop\Facultate\Semestrul IV\Programare_orientata_obiect\Proiect_final\Proiect_2\Proiect_2\Proiect_2\obj\Debug\Proiect_2.exe
+C:\Users\Catalina\Desktop\Facultate\Semestrul IV\Programare_orientata_obiect\Proiect_final\Proiect_2\Proiect_2\Proiect_2\obj\Debug\Proiect_2.pdb
+C:\Users\Jojo's bizzare pc\Desktop\POO\Proiect_2\Proiect_2\Proiect_2\bin\Debug\Proiect_2.exe.config
+C:\Users\Jojo's bizzare pc\Desktop\POO\Proiect_2\Proiect_2\Proiect_2\bin\Debug\Proiect_2.exe
+C:\Users\Jojo's bizzare pc\Desktop\POO\Proiect_2\Proiect_2\Proiect_2\bin\Debug\Proiect_2.pdb
+C:\Users\Jojo's bizzare pc\Desktop\POO\Proiect_2\Proiect_2\Proiect_2\obj\Debug\Proiect_2.csprojAssemblyReference.cache
+C:\Users\Jojo's bizzare pc\Desktop\POO\Proiect_2\Proiect_2\Proiect_2\obj\Debug\Proiect_2.Form1.resources
+C:\Users\Jojo's bizzare pc\Desktop\POO\Proiect_2\Proiect_2\Proiect_2\obj\Debug\Proiect_2.Properties.Resources.resources
+C:\Users\Jojo's bizzare pc\Desktop\POO\Proiect_2\Proiect_2\Proiect_2\obj\Debug\Proiect_2.csproj.GenerateResource.cache
+C:\Users\Jojo's bizzare pc\Desktop\POO\Proiect_2\Proiect_2\Proiect_2\obj\Debug\Proiect_2.csproj.CoreCompileInputs.cache
+C:\Users\Jojo's bizzare pc\Desktop\POO\Proiect_2\Proiect_2\Proiect_2\obj\Debug\Proiect_2.exe
+C:\Users\Jojo's bizzare pc\Desktop\POO\Proiect_2\Proiect_2\Proiect_2\obj\Debug\Proiect_2.pdb
+C:\Users\Jojo's bizzare pc\Desktop\POO\PROIECTELE\POO_Proiect_2\Proiect_2\bin\Debug\Proiect_2.exe.config
+C:\Users\Jojo's bizzare pc\Desktop\POO\PROIECTELE\POO_Proiect_2\Proiect_2\bin\Debug\Proiect_2.exe
+C:\Users\Jojo's bizzare pc\Desktop\POO\PROIECTELE\POO_Proiect_2\Proiect_2\bin\Debug\Proiect_2.pdb
+C:\Users\Jojo's bizzare pc\Desktop\POO\PROIECTELE\POO_Proiect_2\Proiect_2\obj\Debug\Proiect_2.csprojAssemblyReference.cache
+C:\Users\Jojo's bizzare pc\Desktop\POO\PROIECTELE\POO_Proiect_2\Proiect_2\obj\Debug\Proiect_2.Form1.resources
+C:\Users\Jojo's bizzare pc\Desktop\POO\PROIECTELE\POO_Proiect_2\Proiect_2\obj\Debug\Proiect_2.Properties.Resources.resources
+C:\Users\Jojo's bizzare pc\Desktop\POO\PROIECTELE\POO_Proiect_2\Proiect_2\obj\Debug\Proiect_2.csproj.GenerateResource.cache
+C:\Users\Jojo's bizzare pc\Desktop\POO\PROIECTELE\POO_Proiect_2\Proiect_2\obj\Debug\Proiect_2.csproj.CoreCompileInputs.cache
+C:\Users\Jojo's bizzare pc\Desktop\POO\PROIECTELE\POO_Proiect_2\Proiect_2\obj\Debug\Proiect_2.exe
+C:\Users\Jojo's bizzare pc\Desktop\POO\PROIECTELE\POO_Proiect_2\Proiect_2\obj\Debug\Proiect_2.pdb
+C:\Users\Jojo's bizzare pc\Desktop\POO\PROIECTELE\POO_Proiect_2\Proiect_2\obj\Debug\Proiect_2.Form2.resources
+C:\Users\Jojo's bizzare pc\Desktop\Proiect2\Proiect_2\obj\Debug\Proiect_2.csprojAssemblyReference.cache
+C:\Users\Jojo's bizzare pc\Desktop\Proiect2\Proiect_2\obj\Debug\Proiect_2.Form1.resources
+C:\Users\Jojo's bizzare pc\Desktop\Proiect2\Proiect_2\obj\Debug\Proiect_2.Properties.Resources.resources
+C:\Users\Jojo's bizzare pc\Desktop\Proiect2\Proiect_2\obj\Debug\Proiect_2.csproj.GenerateResource.cache
+C:\Users\Jojo's bizzare pc\Desktop\Proiect2\Proiect_2\obj\Debug\Proiect_2.csproj.CoreCompileInputs.cache
+C:\Users\Jojo's bizzare pc\Desktop\Proiect2\Proiect_2\obj\Debug\Proiect_2.exe
+C:\Users\Jojo's bizzare pc\Desktop\Proiect2\Proiect_2\obj\Debug\Proiect_2.pdb
+C:\Users\Jojo's bizzare pc\Desktop\Proiect2\Proiect_2\bin\Debug\Proiect_2.exe.config
+C:\Users\Jojo's bizzare pc\Desktop\Proiect2\Proiect_2\bin\Debug\Proiect_2.exe
+C:\Users\Jojo's bizzare pc\Desktop\Proiect2\Proiect_2\bin\Debug\Proiect_2.pdb
+C:\Users\Jojo's bizzare pc\Desktop\Proiect2\Proiect2\Proiect_2\bin\Debug\Proiect_2.exe.config
+C:\Users\Jojo's bizzare pc\Desktop\Proiect2\Proiect2\Proiect_2\bin\Debug\Proiect_2.exe
+C:\Users\Jojo's bizzare pc\Desktop\Proiect2\Proiect2\Proiect_2\bin\Debug\Proiect_2.pdb
+C:\Users\Jojo's bizzare pc\Desktop\Proiect2\Proiect2\Proiect_2\obj\Debug\Proiect_2.csprojAssemblyReference.cache
+C:\Users\Jojo's bizzare pc\Desktop\Proiect2\Proiect2\Proiect_2\obj\Debug\Proiect_2.Form1.resources
+C:\Users\Jojo's bizzare pc\Desktop\Proiect2\Proiect2\Proiect_2\obj\Debug\Proiect_2.Properties.Resources.resources
+C:\Users\Jojo's bizzare pc\Desktop\Proiect2\Proiect2\Proiect_2\obj\Debug\Proiect_2.csproj.GenerateResource.cache
+C:\Users\Jojo's bizzare pc\Desktop\Proiect2\Proiect2\Proiect_2\obj\Debug\Proiect_2.csproj.CoreCompileInputs.cache
+C:\Users\Jojo's bizzare pc\Desktop\Proiect2\Proiect2\Proiect_2\obj\Debug\Proiect_2.exe
+C:\Users\Jojo's bizzare pc\Desktop\Proiect2\Proiect2\Proiect_2\obj\Debug\Proiect_2.pdb
